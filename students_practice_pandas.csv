@@ -1,0 +1,11 @@
+student_id,name,branch,year,cgpa,placement_status
+101,Amit,CSE,2,8.5,Placed
+102,Priya,ECE,3,7.8,Not Placed
+103,Rahul,CSE,1,9.1,Placed
+104,Sneha,ME,4,6.9,Not Placed
+105,Karan,EE,2,7.2,Not Placed
+106,Anjali,CSE,3,8.8,Placed
+107,Rohit,ECE,1,7.5,Not Placed
+108,Neha,ME,4,6.7,Not Placed
+109,Vikas,EE,2,7.9,Placed
+110,Pooja,CSE,1,9.3,Placed
